@@ -1,6 +1,6 @@
-## web前端工程师简历
+## 吕涯web前端工程师简历
 
-### 项目地址：http://www.flqin.com
+### 项目地址：https://github.com/Fengmaybe/YaLv_Resume
 
 ### 准备环境 
 
